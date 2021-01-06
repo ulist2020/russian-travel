@@ -1,0 +1,25 @@
+.cover__overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    text-decoration: none;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    background-color: rgba(42, 44, 47, 0.3);;
+    width: 100%;
+    height: 100%;
+    transition-property: background-color;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+}
+
+.cover__overlay:hover {
+    background-color: rgba(42, 44, 47, 0.8);
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .cover__overlay{
+        width: 100%;
+    }
+}

@@ -1,0 +1,16 @@
+.lead__map{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -87%);
+    max-width: 95%;
+}
+
+@media screen and (max-width: 767px){
+    .lead__map{
+        position: absolute;
+        top: 50%;
+        left: 50vw;
+        transform: translate( -50vw, -93%);
+    }
+}
