@@ -1,4 +1,4 @@
-.place__paragraph{
+.places__paragraph{
     margin: 26px auto 0 auto;
     font-style: normal;
     font-weight: normal;
@@ -6,12 +6,12 @@
     line-height: 163%;
 }
 
-.place__paragraph:first-of-type{
+.places__paragraph:first-of-type{
     margin: 0px auto 0 auto;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px){
-    .place__paragraph{
+    .places__paragraph{
         margin: 25px auto 0 auto;
         font-style: normal;
         font-weight: normal;
@@ -21,7 +21,7 @@
 }
 
 @media screen and (max-width: 767px){
-    .place__paragraph{
+    .places__paragraph{
         margin: 25px auto 0 auto;
         width: 100%;
         font-size: 16px;
