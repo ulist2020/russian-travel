@@ -1,7 +1,7 @@
 .lead {
     display: flex;
     flex-direction: column;
-    margin: 48px auto 0px auto;
+    margin: 48px 0px 0px 0px;
 }
 
 @media screen and (min-width: 1280px){

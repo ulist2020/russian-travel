@@ -1,3 +1,9 @@
 .places__url-block{
     align-self: end;
 }
+
+@media screen and (max-width: 767px){
+    .places__url-block{
+        margin: 0 16px auto 16px;
+    }
+}

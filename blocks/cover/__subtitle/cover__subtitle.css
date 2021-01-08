@@ -3,7 +3,7 @@
     margin: 0px auto auto auto;
     align-self: center;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
@@ -15,9 +15,6 @@
         margin-left: 16px;
         margin-right: 16px;
         font-size: 14px;
-        font-style: normal;
-        font-weight: normal;
         line-height: 16px;
-        text-align: center;
     }
 }
