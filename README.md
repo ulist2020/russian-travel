@@ -10,5 +10,5 @@ HTML
 CSS   
  
 
-### Посмотреть проект: [Github-pages]((https://ulist2020.github.io/russian-travel/index.html)
+### Посмотреть проект: [Github-pages](https://ulist2020.github.io/russian-travel/index.html)
 
